@@ -41,5 +41,5 @@ I build scalable applications, automate infrastructure, and develop cloud-native
 
 ### Contact
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin
+- Email: kelvinderitugithenya@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kelvin-nderitu-githenya
