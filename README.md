@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Kelvin Nderitu 👋
 
-<!--
-**kelvinderitu/kelvinderitu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer & DevOps Engineer
 
-Here are some ideas to get you started:
+I build scalable applications, automate infrastructure, and develop cloud-native solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+- Python
+- JavaScript
+- React
+- Flutter
+- Django
+- Laravel
+- Docker
+- Kubernetes
+- Git & GitHub
+- MySQL
+- Oracle Cloud
+
+### Certifications
+
+- Cisco CyberOps Associate
+- Cisco Network Defense
+- Oracle Cloud Infrastructure Foundations
+- Python Advanced Programming
+
+### Current Projects
+
+🚀 Keja Hunt
+- Property management platform
+- React + Flutter + Python
+
+🚀 Hedge Fund Bot
+- AI-powered algorithmic trading system
+- Python + MT5 + Machine Learning
+
+🚀 MaishaShade
+- Full-stack e-commerce platform
+- React + Flutter + SQL
+
+### Contact
+
+- Email: your-email@example.com
+- LinkedIn: your-linkedin
